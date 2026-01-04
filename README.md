@@ -52,6 +52,5 @@ This project demonstrates my ability to implement modern web development practic
 
 ## How to Run the Project
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/event-website.git
+ https://afianoor-lab.github.io/EventFinder/
+
